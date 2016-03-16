@@ -1,6 +1,11 @@
 tweetr-js 1.0.0
 ===============
 
+Version:    1.0.0<br />
+Author:     Jim Forsyth (jpforsyth.com)<br />
+Copyright:  2016 Jim Forsyth<br />
+License:    MIT<br />
+
 Description
 -----------
 
